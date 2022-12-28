@@ -1,4 +1,5 @@
 # max-submodular-ranking-code
+Reference: https://arxiv.org/pdf/2204.04168.pdf
 
 ## Repo structure
 
@@ -7,7 +8,6 @@
 * `results.ipynb`: compare performance and plotting
 
 ## Examples
-Reference: https://arxiv.org/pdf/2204.04168.pdf
 
 ```
 >>> import numpy as np
